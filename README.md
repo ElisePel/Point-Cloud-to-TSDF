@@ -1,5 +1,5 @@
 # SDF
-A implementation to transform point 2D clouds in SDF.
+A implementation to transform 2D point cloud in SDF.
 
 ```
 img_list = SDF(data, 256, limit=20, borne=0.5)
