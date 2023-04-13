@@ -1,5 +1,5 @@
-# SDF
-A implementation to transform 2D point cloud in SDF.
+# Point Cloud to TSDF
+A implementation to transform 2D point cloud in TSDF (truncated signed distance function).
 
 ```
 img_list = SDF(data, 256, limit=20, borne=0.5)
