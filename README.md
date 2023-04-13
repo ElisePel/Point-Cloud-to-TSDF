@@ -6,8 +6,8 @@ img_list = SDF(data, 256, limit=20, borne=0.5)
 plt.imshow(img_list[0])
 plt.colorbar()
 ```
+![image](https://user-images.githubusercontent.com/98736513/231729714-c0384199-b7fb-40ae-bde1-7bd60ce4d581.png)
 
-![image](https://user-images.githubusercontent.com/98736513/231727882-3295da8c-d24d-4dd2-adfc-e60f8534f918.png)
 
 ## Example of limit : 
 ### limit=20
